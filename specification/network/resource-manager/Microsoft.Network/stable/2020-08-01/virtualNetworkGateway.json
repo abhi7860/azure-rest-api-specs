@@ -1861,7 +1861,7 @@
           "200": {
             "description": "Request successful. The operation getikesas completed on virtual network gateway connection.",
             "schema": {
-              "$ref": "#/definitions/IkeSaParameters"
+              "type": "string"
             }
           },
           "default": {
