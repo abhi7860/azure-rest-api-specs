@@ -1875,10 +1875,6 @@
           "List IKE Security Associations for virtual network gateway connection": {
             "$ref": "./examples/VirtualNetworkGatewayConnectionGetIkeSas.json"
           }
-        },
-        "x-ms-long-running-operation": true,
-        "x-ms-long-running-operation-options": {
-          "final-state-via": "location"
         }
       }
     },
